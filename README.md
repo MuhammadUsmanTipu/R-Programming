@@ -7,3 +7,4 @@
 5) Calculated the frequency of each character of the vector produced by: sample(letters, 10^5, replace = TRUE) and choosed an appropriate visualization in a figure.
 6) Loading the iris data set and filtering out all instances with species setosa and sepal.length above 5.
 7) Constructing a matrix consisting of two rows where the first one contains the 100 first (positive) integers in increasing order and the second row the 100 first (positive) integers in decreasing order and then use apply to sum the rows.
+8) Construct a matrix and implement a nested for loop that runs through the matrix and doubles each element.
