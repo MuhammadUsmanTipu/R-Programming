@@ -8,3 +8,4 @@
 6) Loading the iris data set and filtering out all instances with species setosa and sepal.length above 5.
 7) Constructing a matrix consisting of two rows where the first one contains the 100 first (positive) integers in increasing order and the second row the 100 first (positive) integers in decreasing order and then use apply to sum the rows.
 8) Construct a matrix and implement a nested for loop that runs through the matrix and doubles each element.
+9) Implemented the previous solution but where the double for loop is replaced by nested sapply functions calls instead (i.e., no for loops).
