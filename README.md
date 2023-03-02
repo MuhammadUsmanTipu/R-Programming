@@ -9,3 +9,4 @@
 7) Constructing a matrix consisting of two rows where the first one contains the 100 first (positive) integers in increasing order and the second row the 100 first (positive) integers in decreasing order and then use apply to sum the rows.
 8) Construct a matrix and implement a nested for loop that runs through the matrix and doubles each element.
 9) Implemented the previous solution but where the double for loop is replaced by nested sapply functions calls instead (i.e., no for loops).
+10) Used outer to calculate all possible strings of length 2 using the set of characters {a, b, c}
