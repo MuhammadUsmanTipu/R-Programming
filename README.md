@@ -10,3 +10,4 @@
 8) Construct a matrix and implement a nested for loop that runs through the matrix and doubles each element.
 9) Implemented the previous solution but where the double for loop is replaced by nested sapply functions calls instead (i.e., no for loops).
 10) Used outer to calculate all possible strings of length 2 using the set of characters {a, b, c}
+11) Drawn 1000 points from the standard normal distribution and count the number of draws that are below −2.
