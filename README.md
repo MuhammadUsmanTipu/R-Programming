@@ -11,3 +11,5 @@
 9) Implemented the previous solution but where the double for loop is replaced by nested sapply functions calls instead (i.e., no for loops).
 10) Used outer to calculate all possible strings of length 2 using the set of characters {a, b, c}
 11) Drawn 1000 points from the standard normal distribution and count the number of draws that are below −2.
+12) Using the same data as in the previous exercise, obtained the indices of data points that are between −1 and 1. Ploted a histogram of these data points.
+
