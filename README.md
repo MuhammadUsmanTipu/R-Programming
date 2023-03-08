@@ -12,4 +12,5 @@
 10) Used outer to calculate all possible strings of length 2 using the set of characters {a, b, c}
 11) Drawn 1000 points from the standard normal distribution and count the number of draws that are below −2.
 12) Using the same data as in the previous exercise, obtained the indices of data points that are between −1 and 1. Ploted a histogram of these data points.
+13) Define a function f, having arguments k and m, which returns a function g(x) describing a linear relation of the form g(x) = kx + m.
 
